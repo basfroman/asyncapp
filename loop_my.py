@@ -1,6 +1,5 @@
 import asyncio
 import random
-import time
 
 
 async def async_print(value):
